@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "24658211-d312-4cfc-9137-0a74f88da654"
+      }
+    },
+    "android": {
+      "package": "com.wilvison.esportewr"
+    },
+    "ios": {
+      "bundleIdentifier": "app.esportewr",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
