@@ -35,7 +35,7 @@ EsporteWR é um aplicativo móvel desenvolvido para gerenciar partidas esportiva
    - Relatórios de desempenho
 
 ## Estrutura do Projeto
-
+```
 EsporteWR/ 
 ├── src/ 
 │ ├── components/ # Componentes reutilizáveis 
@@ -44,7 +44,7 @@ EsporteWR/
 │ └── navigation/ # Configuração de rotas 
 ├── assets/ # Recursos estáticos 
 └── App.js # Arquivo principal
-
+```
 ## Tecnologias Utilizadas
 - React Native
 - Expo
@@ -66,14 +66,26 @@ git clone [url-do-repositorio]
 cd EsporteWR
 ```
 Instale as dependências
-```npm install```
+```
+npm install
+```
 Inicie o projeto
-```expo start```
+```
+expo start
+```
 Build do Aplicativo
-```expo start```
+```
+expo start
+```
 Para gerar o APK/IPA:
 
-```expo build:android  # Para Android```
-```expo build:ios     # Para iOS```
+```
+expo build:android  # Para Android
+expo build:ios     # Para iOS
+```
 
+Licença
+Este projeto está sob a licença MIT. Veja o arquivo [[LICENSE](/LICENSE.md/)] para mais detalhes.
 
+Contato
+Para sugestões, dúvidas ou contribuições, entre em contato através do email [wilvison@gmail.com].
